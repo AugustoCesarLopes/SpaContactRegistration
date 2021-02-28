@@ -1,0 +1,6 @@
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Common\obj\Debug\SpaContactRegistration.Common.csprojAssemblyReference.cache
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Common\obj\Debug\SpaContactRegistration.Common.csproj.CoreCompileInputs.cache
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Common\bin\Debug\SpaContactRegistration.Common.dll
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Common\bin\Debug\SpaContactRegistration.Common.pdb
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Common\obj\Debug\SpaContactRegistration.Common.dll
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Common\obj\Debug\SpaContactRegistration.Common.pdb
