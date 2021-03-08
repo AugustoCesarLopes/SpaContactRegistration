@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contracts\Repositories\IContactRepository.cs" />
+    <Compile Include="Contracts\Services\IContactService.cs" />
+    <Compile Include="Contracts\Services\INotificationService.cs" />
     <Compile Include="Models\Contact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

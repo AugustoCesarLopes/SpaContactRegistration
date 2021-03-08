@@ -2,13 +2,19 @@
 using SpaContactRegistration.Domain.Models;
 using SpaContactRegistration.Infraestructure.Data;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace SpaContactRegistration.Infraestructure.Repositories
 {
     public class ContactRepository : IContactRepository
     {
-        private AppDataContext _context = new AppDataContext();
+        private AppDataContext _context;
+
+        public ContactRepository(AppDataContext context)
+        {
+            this._context = context;
+        }
 
         public Contact Get(string email)
         {
@@ -37,6 +43,10 @@ namespace SpaContactRegistration.Infraestructure.Repositories
             _context.SaveChanges();
         }
 
+        public List<Contact> Get(int skip, int take)
+        {
+            return _context.Contacts.OrderBy(x => x.Name).Skip(skip).Take(take).ToList();
+        }
 
         public void Dispose()
         {

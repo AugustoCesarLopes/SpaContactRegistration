@@ -1,5 +1,6 @@
 ﻿using SpaContactRegistration.Domain.Models;
 using System;
+using System.Collections.Generic;
 
 namespace SpaContactRegistration.Domain.Contracts.Repositories
 {
@@ -7,6 +8,7 @@ namespace SpaContactRegistration.Domain.Contracts.Repositories
     {
         Contact Get(string email);
         Contact Get(Guid id);
+        List<Contact> Get(int skip, int take);
         
         void Create(Contact contact);
         void Update(Contact contact);

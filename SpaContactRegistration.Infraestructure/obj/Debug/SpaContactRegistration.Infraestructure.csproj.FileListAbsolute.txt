@@ -10,9 +10,9 @@ C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegis
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\bin\Debug\EntityFramework.xml
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.csprojAssemblyReference.cache
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.Migrations.AppDataContext.resources
+C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.csproj.GenerateResource.cache
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.csproj.CopyComplete
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.dll
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.pdb
-C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.Migrations.AppConnectionString.resources
-C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Infraestructure\obj\Debug\SpaContactRegistration.Infraestructure.csproj.GenerateResource.cache
