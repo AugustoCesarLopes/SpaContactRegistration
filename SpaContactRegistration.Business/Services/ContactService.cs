@@ -44,6 +44,15 @@ namespace SpaContactRegistration.Business.Services
             return contact;
         }
 
+        public Contact GetById(Guid Id)
+        {
+            var contact = _repository.Get(Id);
+            if (contact == null)
+                throw new Exception("Contato Não Encontrado");
+
+            return contact;
+        }
+
         public void ChangePassword(string email, string password, string newPassword, string confirmNewPassword)
         {
             var contact = Authenticate(email, password);
@@ -55,10 +64,10 @@ namespace SpaContactRegistration.Business.Services
         }
         public void Register(string name, string email, string phone, string password, string confirmPassword)
         {
-            var hasContact = GetByEmail(email);//   _repository.Get(email)
+            /*var hasContact = GetByEmail(email);//   _repository.Get(email)
             if (hasContact != null)
                 throw new Exception("Usuario Duplicado!");
-
+            */
             var contact = new Contact(name, email, phone);
             contact.SetPassword(password, confirmPassword);
             contact.Validate();

@@ -8,6 +8,7 @@ namespace SpaContactRegistration.Domain.Contracts.Services
     {
         Contact Authenticate(string email, string password);
         Contact GetByEmail(string email);
+        Contact GetById(Guid Id);
         void Register(string name, string email, string phone, string password, string confirmPassword);
         void ChangeInformation(string email, string name);
         void ChangePassword(string email, string password, string newPassword, string confirmNewPassword);

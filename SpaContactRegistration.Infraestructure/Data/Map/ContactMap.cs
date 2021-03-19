@@ -28,6 +28,10 @@ namespace SpaContactRegistration.Infraestructure.Data.Map
             Property(x => x.Telefone)
                 .HasMaxLength(12)
                 .IsFixedLength();
+
+            Property(x => x.Password)
+               .HasMaxLength(32)
+               .IsFixedLength();
         }
     }
 }

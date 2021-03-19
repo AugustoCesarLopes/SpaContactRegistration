@@ -7,3 +7,12 @@ C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegis
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.csproj.CopyComplete
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.dll
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Debug\SpaContactRegistration.Domain.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Debug\SpaContactRegistration.Domain.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Debug\SpaContactRegistration.Common.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Debug\SpaContactRegistration.Common.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.csproj.CopyComplete
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Debug\SpaContactRegistration.Domain.pdb

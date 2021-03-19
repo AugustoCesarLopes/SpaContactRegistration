@@ -53,9 +53,9 @@
   <ItemGroup>
     <Compile Include="Data\AppDataContext.cs" />
     <Compile Include="Data\Map\ContactMap.cs" />
-    <Compile Include="Migrations\202103051415471_AppDataContext.cs" />
-    <Compile Include="Migrations\202103051415471_AppDataContext.designer.cs">
-      <DependentUpon>202103051415471_AppDataContext.cs</DependentUpon>
+    <Compile Include="Migrations\202103141030311_AppDataContext.cs" />
+    <Compile Include="Migrations\202103141030311_AppDataContext.designer.cs">
+      <DependentUpon>202103141030311_AppDataContext.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,8 +76,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202103051415471_AppDataContext.resx">
-      <DependentUpon>202103051415471_AppDataContext.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202103141030311_AppDataContext.resx">
+      <DependentUpon>202103141030311_AppDataContext.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

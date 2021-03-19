@@ -8,7 +8,7 @@ using System.Web.Http;
 
 namespace SpaContactRegistration.Api.Controllers
 {
-    [RoutePrefix("api/account")]
+    [RoutePrefix("api/users")]
     public class AccountController : ApiController
     {
         private IContactService _service;

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AppConnectionString-Web.config Connection String" description="AppConnectionString A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Server=.\sqlexpress;Database=spacontactregistration1;User ID=sa;Password=sqlexpress;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\littl\\Desktop\\auglop\\SpaContactRegistration\\SpaContactRegistration\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AppConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

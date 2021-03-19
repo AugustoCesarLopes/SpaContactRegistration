@@ -1,0 +1,9 @@
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Release\SpaContactRegistration.Domain.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Release\SpaContactRegistration.Domain.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Release\SpaContactRegistration.Common.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\bin\Release\SpaContactRegistration.Common.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Release\SpaContactRegistration.Domain.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Release\SpaContactRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Release\SpaContactRegistration.Domain.csproj.CopyComplete
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Release\SpaContactRegistration.Domain.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Domain\obj\Release\SpaContactRegistration.Domain.pdb

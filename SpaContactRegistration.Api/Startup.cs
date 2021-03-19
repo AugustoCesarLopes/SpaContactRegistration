@@ -25,7 +25,7 @@ namespace SpaContactRegistration.Api
             config.DependencyResolver = new UnityResolver(container);
 
             ConfigureWebApi(config);
-            ConfigureOAuth(app, container.Resolve<IContactService>());
+            //ConfigureOAuth(app, container.Resolve<IContactService>());
 
             app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
             app.UseWebApi(config);

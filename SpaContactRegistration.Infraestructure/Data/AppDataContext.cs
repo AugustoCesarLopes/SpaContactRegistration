@@ -6,10 +6,11 @@ namespace SpaContactRegistration.Infraestructure.Data
 {
     public class AppDataContext: DbContext
     {
-        public AppDataContext() : base("AppConnectionString")
+        public AppDataContext() 
+            : base("AppConnectionString")
         {
-            Configuration.LazyLoadingEnabled = false;
             Configuration.ProxyCreationEnabled = false;
+            Configuration.LazyLoadingEnabled = false;
         }
 
         public DbSet<Contact> Contacts { get; set; }

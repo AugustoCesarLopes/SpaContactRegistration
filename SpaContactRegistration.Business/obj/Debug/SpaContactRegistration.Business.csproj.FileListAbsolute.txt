@@ -14,3 +14,19 @@ C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegis
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.csproj.CopyComplete
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.dll
 C:\Users\littl\Documents\arqM\Projetos VS\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Business.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Business.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Common.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Domain.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Infraestructure.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\EntityFramework.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Common.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Domain.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Infraestructure.pdb
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\SpaContactRegistration.Infraestructure.dll.config
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\bin\Debug\EntityFramework.xml
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.csproj.CopyComplete
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.dll
+C:\Users\littl\Desktop\auglop\SpaContactRegistration\SpaContactRegistration.Business\obj\Debug\SpaContactRegistration.Business.pdb
